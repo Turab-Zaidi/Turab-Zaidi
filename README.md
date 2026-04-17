@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-M-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turab.z567@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-turab.z567@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turab.z567@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-turabzaidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turabzaidi0104)
 
 </div>
